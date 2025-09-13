@@ -10,7 +10,7 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 
 ---
 
-## Principais Funcionalidades
+## Principais Funcionalidades ✨
 
 - Listagem de produtos   
 - Carrinho de compras  
@@ -18,7 +18,7 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 
 ---
 
-## Tecnologias
+## Tecnologias 🧪
 
 - React  
 - Chakra UI  
@@ -26,7 +26,7 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 
 ---
 
-## Instalação e Execução
+## Instalação e Execução 🧼
 
 1. Clone este repositório:  
    ```bash
@@ -51,7 +51,7 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 5. O servidor será iniciado normalmente em seu navegador padrão, e a aplicação recarrega automaticamente ao modificar os arquivos. 
 GitHub
 
-## Estrutura de Pastas
+## Estrutura de Pastas 📁
 
 ```
 ecommerce-roupas/
