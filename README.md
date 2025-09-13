@@ -29,9 +29,9 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 ## Instalação e Execução 🧼
 
 1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/PedroOliveira-N/ecommerce-roupas.git
-   ```
+  ```bash
+  git clone https://github.com/PedroOliveira-N/ecommerce-roupas.git
+  ```
 
 2. Acesse o diretório:
   ```bash
