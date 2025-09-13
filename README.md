@@ -20,7 +20,8 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
 
 ## Tecnologias 🧪
 
-- React  
+- React
+- React Icons
 - Chakra UI  
 - React Router DOM
 
