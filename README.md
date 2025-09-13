@@ -1,12 +1,12 @@
-# Ecommerce de Roupas
+# Ecommerce de Roupas — Traço Fino 👔
 
 Repositório do frontend de um e-commerce de roupas, construído com **React** e **Create React App**.  
 
 ---
 
-## Sobre
+## Sobre 👤
 
-Este projeto é o frontend de uma loja online voltada para vestuário. Permite que usuários visualizem produtos, adicionem ao carrinho, e finalize compras.  
+Este projeto é o frontend de uma loja imaginária voltada para vestuário chamada Traço Fino. Permite que usuários visualizem produtos, adicionem ao carrinho, e finalizem compras em ambiente local.  
 
 ---
 
