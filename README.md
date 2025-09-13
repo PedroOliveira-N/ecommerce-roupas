@@ -49,7 +49,6 @@ Este projeto é o frontend de uma loja imaginária voltada para vestuário chama
   ```
 
 5. O servidor será iniciado normalmente em seu navegador padrão, e a aplicação recarrega automaticamente ao modificar os arquivos. 
-GitHub
 
 ## Estrutura de Pastas 📁
 
