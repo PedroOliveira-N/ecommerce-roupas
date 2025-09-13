@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Camisa Básica Estampada Gato Preto",
+    "sizes": ["P", "M", "G", "GG"],
+    "image": "/imgs/produtos/camisa-basica.png",
+    "price": 179.9
+  },
+  {
+    "id": 2,
+    "name": "Calça Estampada Gato Preto",
+    "sizes": ["P", "M", "G", "GG"],
+    "image": "/imgs/produtos/calca.png",
+    "price": 229.9
+  },
+  {
+    "id": 3,
+    "name": "Tênis Estampado Gato Preto",
+    "sizes": ["37", "38", "39", "40", "41"],
+    "image": "/imgs/produtos/tenis.png",
+    "price": 519.9
+  }
+]
