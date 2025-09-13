@@ -1,6 +1,10 @@
-import { Box, Image, Text, Card, CardBody, Heading, Stack, Button } from "@chakra-ui/react";
+import { Box, Image, Text, Card, CardBody, Heading, Stack, Button} from "@chakra-ui/react";
 
 export default function Carrinho({ carro = [] , setCarro }) {
+
+  const handleComprar = () => {
+    alert("Compra Realizada")
+  }
 
   const removerDoCarrinho = (id) => {
     setCarro((prevCarrinho) =>
@@ -27,6 +31,17 @@ export default function Carrinho({ carro = [] , setCarro }) {
         </Text>
       ) : (
         <Stack spacing={6} w="100%" maxW="600px">
+
+          <Button
+            colorScheme="green"
+            alignSelf="flex-end"
+            onClick={handleComprar}
+            maxW="100%"
+            w="100%"
+          >
+            Finalizar Compra
+          </Button>
+
           <Button
             colorScheme="red"
             variant="outline"
@@ -37,6 +52,7 @@ export default function Carrinho({ carro = [] , setCarro }) {
           >
             Esvaziar carrinho
           </Button>
+
           {carro.map((item) => (
             <Card
               key={item.id}
