@@ -1,6 +1,6 @@
 # Ecommerce de Roupas — Traço Fino 👔
 
-Repositório do frontend de um e-commerce de roupas, construído com **React** e **Create React App**.  
+Repositório do frontend de um e-commerce de roupas, construído em **React**.  
 
 ---
 
